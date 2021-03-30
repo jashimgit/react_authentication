@@ -1,0 +1,15 @@
+nav {
+  text-align: center;
+}
+nav ul {
+  display: inline-block;
+  list-style: none;
+}
+nav ul a {
+  padding: 14px;
+  margin-left: 6px;
+  margin-right: 13px;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: cursive;
+}
